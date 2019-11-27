@@ -1,4 +1,22 @@
-iiiiiiipackage com.companyname.bank;
+BDDDDGGGG
+B
+B
+B
+A
+A
+A
+A
+D
+D
+DaaXXXXXX
+D
+C
+C
+C
+C
+C
+C
+xxxxxddddddxxxxxdiiiiiiipackage com.companyname.bank;
 
 
 public class Util
