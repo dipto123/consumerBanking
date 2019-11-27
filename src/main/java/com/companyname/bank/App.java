@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        Util.printMessage("This is test hello!");
+        Util.printMessage("My Name is test hello!");
     }
 }
